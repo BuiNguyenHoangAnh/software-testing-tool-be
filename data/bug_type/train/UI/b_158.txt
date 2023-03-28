@@ -1,0 +1,1 @@
+[Auth0 pages] Brand logo is not displayed on Auth0 pages
